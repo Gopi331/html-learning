@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Launch via NPM",
+            "request": "launch",
+            "runtimeArgs": [
+                "run-script",
+                "debug"
+            ],
+            "runtimeExecutable": "npm",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+    {
+        "address": "TCP/IP address of process to be debugged",
+        "localRoot": "${workspaceFolder}",
+        "name": "Attach to Remote",
+        "port": 9229,
+        "remoteRoot": "Absolute path to the remote directory containing the program",
+        "request": "attach",
+        "skipFiles": [
+            "<node_internals>/**"
+        ],
+        "type": "node"
+    }
+
+    ]
+}
+<!DOCTYPE html>
+<html>
+<body>
+<p>Father is will take of a bill </p>
+<p>The master is blaster in called of void <q>Gopinath in may can throughtbefour</q>
+
+<body>
+<html>
